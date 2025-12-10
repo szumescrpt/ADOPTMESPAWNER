@@ -515,7 +515,7 @@ task.spawn(
             {
                 Title = "BeezelbubHub",
                 Icon = "laptop",
-                Author = "by Ticarto",
+                Author = "by Beezelbub",
                 Folder = "ChunkHubmm2",
                 Size = UDim2.fromOffset(420, 350),
                 Transparent = false,
